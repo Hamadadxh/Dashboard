@@ -108,7 +108,7 @@ export default function DashboardSidebar({ activeSection, onSectionChange }: Das
       <div className="p-4 border-t border-white/10 dark:border-white/10">
         <div className="flex items-center gap-3">
           <div className="w-10 h-10 bg-green-500 rounded-full flex items-center justify-center">
-            <span className="text-white font-semibold">JD</span>
+            <span className="text-white font-semibold">HA</span>
           </div>
           {!isCollapsed && (
             <div className="flex-1">
